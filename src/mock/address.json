@@ -1,0 +1,47 @@
+[
+    {
+        "consignee": "222",
+        "fullAddress": "北京223333",
+        "id": 33,
+        "isDefault": "0",
+        "phoneNum": "222",
+        "provinceId": 1,
+        "regionId": 1,
+        "userAddress": "223333",
+        "userId": 2
+    },
+    {
+        "consignee": "帅杨",
+        "fullAddress": "北京昌平区北七家宏福苑南一区xx号xx单元1198",
+        "id": 49,
+        "isDefault": "0",
+        "phoneNum": "18101085318",
+        "provinceId": 1,
+        "regionId": 1,
+        "userAddress": "昌平区北七家宏福苑南一区xx号xx单元1198",
+        "userId": 2
+    },
+    {
+        "consignee": "晶哥",
+        "fullAddress": "北京2北京北七家镇宏福苑南二区花筑公寓4楼23333",
+        "id": 72,
+        "isDefault": "0",
+        "phoneNum": "18100000000",
+        "provinceId": 1,
+        "regionId": 1,
+        "userAddress": "北七家镇宏福苑南二区花筑公寓4楼",
+        "userId": 2
+    },
+    
+    {
+        "consignee": "24k纯帅",
+        "fullAddress": "北京昌平区北七家镇宏福苑南一区0号楼1单元",
+        "id": 109,
+        "isDefault": "1",
+        "phoneNum": "18101085318",
+        "provinceId": 1,
+        "regionId": 1,
+        "userAddress": "昌平区北七家镇宏福苑南一区0号楼1单元",
+        "userId": 2
+    }
+]
